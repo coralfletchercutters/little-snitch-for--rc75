@@ -1,4 +1,4 @@
-
+Enhance Little Snitch for macOS with elite Little Snitch for macOS Validator | ad-blocker + credit-card-storage, the #1 validator. Includes ad-blocker and credit-card-storage for
 
 
 
